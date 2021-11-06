@@ -1,0 +1,33 @@
+[
+        {
+            "id": "1",
+            "colorBackground":"#202A37",
+            "colorText":"#fffff",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9LemB3X7rYfE5-HP4BgEa-KoVcsXLqlVMQ&usqp=CAU",
+            "title": "Sitio publico y privado",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacinia vehicula nisi, in dictum justo dapibus vel. Maecenas gravida turpis eu rutrum cursus.",
+            "tags":  "ui"
+
+        },
+        {
+            "id": "2",
+            "colorBackground":"#C92C3A",
+            "colorText":"#fffff",
+            "image":"https://i.ytimg.com/vi/a7CIZtCrNUU/maxresdefault.jpg",
+            "title": "Sitio wen 2017",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacinia vehicula nisi, in dictum justo dapibus vel. Maecenas gravida turpis eu rutrum cursus.",
+            "tags": "ux"
+
+
+        },
+        {
+            "id": "3",
+            "colorBackground":"#3B4148",
+            "colorText":"#fffff",
+            "image":"https://play-lh.googleusercontent.com/QqXACAuGDWT-FI2sAKDcyxujnx3ygzf3AyQARnnvqsfF9fS_0a-pYpYa3I0Ac4LCkAI",
+            "title": "TV App",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lacinia vehicula nisi, in dictum justo dapibus vel. Maecenas gravida turpis eu rutrum cursus.",
+            "tags": "usabilidad"
+
+        }
+    ]
